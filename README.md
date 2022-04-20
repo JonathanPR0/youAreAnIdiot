@@ -4,7 +4,9 @@
 
 Já vou logo pedindo que ninguém se ofenda com o título ou o nome da aplicação, mas vamos lá saber o que é isso...
 
-O "You're an idiot?" é um projetinho bem simples que desenvolvi após me deparar com um vídeo de uma aplicação, provavelmente feita com Python, que basicamente lhe fazia de idiota, achei a ideia engraçada e resolvi imitar.
+O "You're an idiot?" é um projetinho bem simples que desenvolvi após me deparar com um vídeo de uma aplicação, provavelmente feita com Python, que basicamente lhe fazia de idiota.
+
+O projeto que ví no vídeo de certa forma imitava um pouco um antigo malware chamado "You Are An Idiot" (por isso a escolha do nome da aplicação), ele apresentava diversas telas no seu computador que lhe chamavam de idiota. Acabei achando a ideia interessante e engraçada, por isso resolvi fazer algo parecido.
 
 ### 👨‍💻 Tecnologias
 
